@@ -223,26 +223,3 @@ Full Stack Developer and Cloud Engineer at Codexon Solution
   </a>
 </div>
 
-<div align="center">
-  <h3>💡 Open to collaborations, freelance projects, and innovative opportunities!</h3>
-  <p>Let's build something amazing together 🚀</p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=labibkamran&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/labibkamran?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</p>
-
----
-
-<div align="center">
-  <i>⭐ Star my repositories if you find them interesting!</i>
-  <br><br>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy Coding!</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-</div>
