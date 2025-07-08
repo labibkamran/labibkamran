@@ -24,14 +24,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Full Stack Developer and Cloud Engineer at Codexon Solution
+**Head of Technology at Codexon Solutions**, driving innovation through cloud-native solutions and blockchain research.
 
-- 🎓 BS Computer Science from NUST University
-- 🚀 2+ Years of software development experience
-- 💼 1 Years of professional work experience
-- 👨‍💻 Co-Founder of the Codexon Team at NUST
-- ☁️ Currently focused on Cloud Engineering & Kubernetes (AWS)
-- 🎓 Computer Science background with passion for cutting-edge technologies
+- 🎓 **BS Computer Science from NUST University**
+- 🚀 **8+ Years of software development experience**
+- 💼 **2 Years of professional work experience**
+- 💪 **3 Years freelancing on** [Upwork](https://upwork.com)
+- 🏆 **Collaborator with Adix Solutions** ([adixsolutions.io](https://adixsolutions.io)) **based in Germany**
+- 👨‍💻 **Founder of the Codexon Team at NUST**
+- ☁️ **Currently focused on Cloud Engineering & Kubernetes (AWS)**
+- 🔬 **Researching Blockchain & Fintech** solutions through my project **Solidio AI**
+- 🎓 **Computer Science background with passion for cutting-edge technologies**
 
 ---
 
@@ -41,32 +44,63 @@ Full Stack Developer and Cloud Engineer at Codexon Solution
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,js,typescript,bootstrap,materialui,flutter" alt="Frontend Skills"/>
+  <img src="https://img.shields.io/badge/⚛️-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/🔷-VUEJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/🟨-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/🎨-TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,flask,django,mysql,postgresql,mongodb,firebase" alt="Backend Skills"/>
+  <img src="https://img.shields.io/badge/🐍-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/🟢-NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/🎯-DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/⚡-EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-### DevOps & Cloud
+### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,nginx,grafana,kubernetes,prometheus" alt="DevOps Skills"/>
+  <img src="https://img.shields.io/badge/🍃-MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/🔵-MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/🐘-POSTGRES-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### Blockchain & Web3
+<p>
+  <img src="https://img.shields.io/badge/⛓️-BLOCKCHAIN-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain"/>
+  <img src="https://img.shields.io/badge/🔷-ETHEREUM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/🌐-WEB3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3"/>
 </p>
 
 ### Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,flutter" alt="Mobile Skills"/>
+  <img src="https://img.shields.io/badge/☕-JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/🔺-KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/🤖-ANDROID_STUDIO-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/💙-FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/☁️-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/🔶-GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/🐳-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/⚙️-KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 </p>
 
 ### AI/ML & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI/ML Skills"/>
+  <img src="https://img.shields.io/badge/🤖-TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/🔥-PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/📊-KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
 </p>
 
 ### Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,adobe" alt="Tools"/>
+  <img src="https://img.shields.io/badge/🔧-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/🐙-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/💻-VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/📮-POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 </div>
