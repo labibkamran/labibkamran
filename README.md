@@ -137,42 +137,66 @@ Full Stack Developer and Cloud Engineer at Codexon Solution
 
 ---
 
-🎯 Featured Projects
+## 🎯 Featured Projects
+
 <div align="center">
-  <a href="https://github.com/labibkamran?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=labibkamran&repo=discuss-it&theme=tokyonight" alt="Discuss-it"/>
-  </a>
-  <a href="https://github.com/labibkamran?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=labibkamran&repo=ai-vehicle-detection&theme=tokyonight" alt="AI Vehicle Detection"/>
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🗣️ Discuss_it</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+            <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+          </a>
+          <p><strong>Sep 2024 - Feb 2025</strong></p>
+          <p>Platform connecting individuals with field experts through clean, scalable web architecture</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🚗 AI Vehicle Detection</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+            <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv8"/>
+            <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+          </a>
+          <p><strong>Jun 2024 - Aug 2024</strong></p>
+          <p>Traffic density estimation through region-based analysis with visual insights</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🤖 Oracis AI</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+            <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+            <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white" alt="Blockchain"/>
+          </a>
+          <p><strong>Jun 2023 - Jul 2023</strong></p>
+          <p>AI-driven CV creation with blockchain-powered NDA signing</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📱 Admin-NUSTFruta</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+            <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+          </a>
+          <p><strong>May 2024 - Jun 2024</strong></p>
+          <p>Admin app for fruit business with real-time tracking</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-<div align="center">
-  <a href="https://github.com/labibkamran?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=labibkamran&repo=oracis-ai&theme=tokyonight" alt="Oracis AI"/>
-  </a>
-  <a href="https://github.com/labibkamran?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=labibkamran&repo=admin-nustfruta&theme=tokyonight" alt="Admin NUSTFruta"/>
-  </a>
-</div>
-<div align="center">
-  <h3>🚀 More Projects</h3>
-  <a href="https://github.com/labibkamran?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
-  </a>
-</div>
-📈 Repository Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=labibkamran&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub Stats"/>
-</div>
-🏆 Top Repositories
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labibkamran&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-📊 Recent Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=labibkamran&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
+
 ---
+
 
 ## 📈 Contribution Activity
 
@@ -198,4 +222,3 @@ Full Stack Developer and Cloud Engineer at Codexon Solution
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
