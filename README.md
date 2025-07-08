@@ -6,17 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F7EF7&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Mobile+Application+Developer;AWS+Engineering+and+Kubernetes;Google+Cloud;2%2B+years+of+coding+experience" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://labibkamran.com">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-labibkamran.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:labibkamran2003@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-labibkamran2003@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="tel:+923194246872">
-    <img src="https://img.shields.io/badge/📞_Phone-+92_319_4246872-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
-</p>
 
 ---
 
@@ -62,12 +51,6 @@ Full Stack Developer and Cloud Engineer at Codexon Solution
   <img src="https://img.shields.io/badge/🐘-POSTGRES-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-### Blockchain & Web3
-<p>
-  <img src="https://img.shields.io/badge/⛓️-BLOCKCHAIN-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain"/>
-  <img src="https://img.shields.io/badge/🔷-ETHEREUM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/🌐-WEB3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3"/>
-</p>
 
 ### Mobile Development
 <p>
@@ -214,14 +197,6 @@ Full Stack Developer and Cloud Engineer at Codexon Solution
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🥇_2020_Board_Topper-First_Position-FFD700?style=for-the-badge&logo=trophy&logoColor=black" alt="Board Topper"/>
-  <img src="https://img.shields.io/badge/🎓_Government_Scholarship-Outstanding_Achievements-32CD32?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Scholarship"/>
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -234,7 +209,7 @@ Full Stack Developer and Cloud Engineer at Codexon Solution
 ## 🌟 Let's Connect & Collaborate!
 
 <div align="center">
-  <a href="https://labibkamran.com">
+  <a href="https://www.labibkamran.com">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/labibkamran">
