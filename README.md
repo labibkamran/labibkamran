@@ -3,14 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Labib+Kamran&desc=Full+Stack+Developer+|+Cloud+Engineer+|+AI/ML+Expert&fontSize=50&descSize=18&descAlignY=65" alt="Welcome Banner"/>
 </p>
 
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=labibkamran&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/github/stars/labibkamran?style=social" alt="GitHub stars"/>
-  <img src="https://img.shields.io/github/followers/labibkamran?style=social" alt="GitHub followers"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
