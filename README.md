@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F7EF7&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;Co-Founder+%40+Codexon;NUST+Computer+Science+Graduate;Full+Stack+%2B+DevOps+%2B+AI%2FML;Building+the+Future+with+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F7EF7&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Mobile+Application+Developer;AWS+Engineering+and+Kubernetes;Google+Cloud;2%2B+years+of+coding+experience" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,14 +23,16 @@
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 Full Stack Developer and Cloud Engineer at Codexon Solution
 
--🎓 BS Computer Science from NUST University
--🚀 8+ Years of software development experience
--💼 2 Years of professional work experience
--👨‍💻 Co-Founder of the Codexon Team at NUST
--☁️ Currently focused on Cloud Engineering & Kubernetes (AWS)
--🎓 Computer Science background with passion for cutting-edge technologies
+- 🎓 BS Computer Science from NUST University
+- 🚀 2+ Years of software development experience
+- 💼 1 Years of professional work experience
+- 👨‍💻 Co-Founder of the Codexon Team at NUST
+- ☁️ Currently focused on Cloud Engineering & Kubernetes (AWS)
+- 🎓 Computer Science background with passion for cutting-edge technologies
+
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -54,7 +56,7 @@ Full Stack Developer and Cloud Engineer at Codexon Solution
 
 ### Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio" alt="Mobile Skills"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,flutter" alt="Mobile Skills"/>
 </p>
 
 ### AI/ML & Data Science
