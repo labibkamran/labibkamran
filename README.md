@@ -24,17 +24,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-**Head of Technology at Codexon Solutions**, driving innovation through cloud-native solutions and blockchain research.
+Full Stack Developer and Cloud Engineer at Codexon Solution
 
-- 🎓 **BS Computer Science from NUST University**
-- 🚀 **8+ Years of software development experience**
-- 💼 **2 Years of professional work experience**
-- 💪 **3 Years freelancing on** [Upwork](https://upwork.com)
-- 🏆 **Collaborator with Adix Solutions** ([adixsolutions.io](https://adixsolutions.io)) **based in Germany**
-- 👨‍💻 **Founder of the Codexon Team at NUST**
-- ☁️ **Currently focused on Cloud Engineering & Kubernetes (AWS)**
-- 🔬 **Researching Blockchain & Fintech** solutions through my project **Solidio AI**
-- 🎓 **Computer Science background with passion for cutting-edge technologies**
+- 🎓 BS Computer Science from NUST University
+- 🚀 2+ Years of software development experience
+- 💼 1 Years of professional work experience
+- 👨‍💻 Co-Founder of the Codexon Team at NUST
+- ☁️ Currently focused on Cloud Engineering & Kubernetes (AWS)
+- 🎓 Computer Science background with passion for cutting-edge technologies
 
 ---
 
