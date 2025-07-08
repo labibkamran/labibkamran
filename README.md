@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi,+I'm+Labib+Kamran!&fontSize=50" alt="Welcome Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Labib+Kamran!&fontSize=50" alt="Welcome Banner"/>
 </p>
 
 <!-- Profile Stats & Socials -->
