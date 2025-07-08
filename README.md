@@ -1,51 +1,96 @@
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Hey+There!+I'm+Labib+Kamran&fontSize=60&color=gradient" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi,+I'm+Labib+Kamran!&fontSize=50" alt="Welcome Banner"/>
 </p>
 
-### 👋 About Me  
-**Labib Kamran** – Backend engineer & DevOps advocate.  
-Based in Rawalpindi, Pakistan. Passionate about building scalable services.
-
-- 🔭 Currently improving my portfolio at [labibkamran.com](https://www.labibkamran.com).  
-- 📚 Experienced in **Java**, **Spring Boot**, **MongoDB**, **GraphQL**, and **Kubernetes**.  
-- 🌱 Learning AI/ML deployments with TensorFlow & Docker.  
-- 💬 Ask me about clean architecture, microservices, or CI/CD pipelines.  
-- 📫 Reach me at: [labib@codexon.pk](mailto:labib@codexon.pk)
-
----
-
-### 🚀 Tech Stack & Tools  
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
-
----
-
-### 📊 GitHub Stats
-
-![Labib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=labibkamran&count_private=true&show_icons=true&theme=radical)
-
----
-
-### 🧠 Currently & Fun Stuff  
-
-- 🎯 Trending project: **Scalable Spring Boot API** with JWT auth & Docker–Compose.  
-- 🧩 Hosted on [labibkamran.com](https://www.labibkamran.com) — showcasing blog, projects, and achievements.  
-- 🎵 Listening to: *insert your favorite playlist or tune here*.  
-
----
-
-### 💼 Resume & Portfolio  
-
-For a detailed rundown of my experience and projects, check out my resume [📄 here](#) *(replace `#` with actual link)*.  
-Explore more at **[labibkamran.com](https://www.labibkamran.com)**.
-
----
-
+<!-- Profile Stats & Socials -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=labibkamran.labibkamran" alt="visitor badge">
+  <a href="https://www.labibkamran.com" target="_blank"><strong>🌐 My Portfolio</strong></a> •
+  <a href="https://github.com/labibkamran" target="_blank"><strong>GitHub</strong></a> •
+  <a href="mailto:labib@codexon.pk"><strong>📧 Email</strong></a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=labibkamran&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/github/stars/labibkamran?style=social" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/followers/labibkamran?style=social" alt="GitHub followers"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+I'm **Labib Kamran**, a Backend & Cloud engineer based in Rawalpindi, Pakistan.
+
+- 🔭 Currently building scalable APIs and improving [labibkamran.com](https://www.labibkamran.com)
+- 🌱 Learning AI/ML deployment with TensorFlow, Docker & Kubernetes
+- 💬 Ask me about Microservices, GraphQL, DevOps, Clean Architecture
+- ⚡ Fun fact: I can brew a strong cup of tea while debugging production issues ☕
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud & DevOps  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure)
+
+### Backend  
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-3C873A?logo=node.js)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
+
+### Frontend & Styles  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
+
+### Databases & Messaging  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq)
+
+---
+
+## 🚀 Projects in Progress
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **NeuroFlow-AI** | Backend API for dynamic GenAI-driven workflows | Python, FastAPI, Docker |
+| **Oracis-AI** | AI-powered job discovery platform | TypeScript, Node.js, GraphQL |
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=labibkamran&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=labibkamran&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=labibkamran&theme=radical)
+
+---
+
+## 🎧 What I'm Listening To
+![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=night&show_offline=false&background_color=121212)
+
+*(Replace `your_spotify_uid` with your Spotify user ID.)*
+
+---
+
+## 📫 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/labibkamran"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/labibkamran"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:labib@codexon.pk"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<details>
+<summary>📝 Resume & Portfolio</summary>
+  
+View my full resume and interactive portfolio at:
+- **🌐 [labibkamran.com](https://www.labibkamran.com)**
+- **📄 [Download Resume (PDF)](https://www.labibkamran.com/resume.pdf)**
+</details>
