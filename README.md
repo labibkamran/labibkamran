@@ -1,14 +1,10 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Labib+Kamran!&fontSize=50" alt="Welcome Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Labib+Kamran!&desc=Full+Stack+•+Cloud+Engineer+•+AI/ML+Expert&fontSize=50&descSize=24&descAlignY=70" alt="Welcome Banner"/>
 </p>
 
-<!-- Profile Stats & Socials -->
-<p align="center">
-  <a href="https://www.labibkamran.com" target="_blank"><strong>🌐 My Portfolio</strong></a> •
-  <a href="https://github.com/labibkamran" target="_blank"><strong>GitHub</strong></a> •
-  <a href="mailto:labib@codexon.pk"><strong>📧 Email</strong></a>
-</p>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=labibkamran&color=blue" alt="Profile views"/>
   <img src="https://img.shields.io/github/stars/labibkamran?style=social" alt="GitHub stars"/>
