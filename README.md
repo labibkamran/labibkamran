@@ -6,12 +6,15 @@
 ---
 
 ## 👨‍💻 About Me
-I'm **Labib Kamran**, a Backend & Cloud engineer based in Rawalpindi, Pakistan.
+Full Stack Developer and Cloud Engineer at Codexon Solution
 
-- 🔭 Currently building scalable APIs and improving [labibkamran.com](https://www.labibkamran.com)
-- 🌱 Learning AI/ML deployment with TensorFlow, Docker & Kubernetes
-- 💬 Ask me about Microservices, GraphQL, DevOps, Clean Architecture
-- ⚡ Fun fact: I can brew a strong cup of tea while debugging production issues ☕
+- 🎓 BS Computer Science from NUST University
+- 🚀 2+ Years of software development experience
+- 💼 1 Years of professional work experience
+- 👨‍💻 Co-Founder of the Codexon Team at NUST
+- ☁️ Currently focused on Cloud Engineering & Kubernetes (AWS)
+- 🎓 Computer Science background with passion for cutting-edge technologies
+
 
 ---
 
