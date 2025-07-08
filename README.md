@@ -23,15 +23,14 @@
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+Full Stack Developer and Cloud Engineer at Codexon Solution
 
-- 🔭 **Currently:** Co-Founder & CTO at **Codexon** - Building robust backend architectures and DevOps solutions
-- 🎓 **Education:** BSCS from NUST Pakistan
-- 🌟 **Achievements:** 2020 Board Topper & Government Scholarship Recipient
-- 💼 **Experience:** Full-Stack Development, Cloud Engineering, AI/ML, DevOps
-- 🌱 **Currently exploring:** Advanced Cloud Architecture & Machine Learning
-- 💬 **Ask me about:** React, Node.js, AWS, Docker, AI/ML, or anything tech!
-- ⚡ **Fun fact:** I love turning complex problems into elegant solutions
-
+-🎓 BS Computer Science from NUST University
+-🚀 8+ Years of software development experience
+-💼 2 Years of professional work experience
+-👨‍💻 Co-Founder of the Codexon Team at NUST
+-☁️ Currently focused on Cloud Engineering & Kubernetes (AWS)
+-🎓 Computer Science background with passion for cutting-edge technologies
 ---
 
 ## 🛠️ Tech Stack & Skills
