@@ -17,7 +17,7 @@ const developer = {
     current: "Co-Founder @ Codexon Solution",
     focus: ["Cloud Infrastructure", "AWS & Kubernetes", "Backend Architecture"]
   },
-  location: "Mingora, Khyber Pakhtunkhwa, Pakistan"
+  location: "Islamabad, Pakistan"
 };
 ```
 
@@ -54,26 +54,6 @@ Developed scalable systems with microservices and automated CI/CD
 
 **MachVis** — *AI/ML Intern*  
 Deep learning research and computer vision applications
-
----
-
-## 🎯 Notable Projects
-
-#### 🔹 Discuss_it `Sep 2024 - Feb 2025`
-Platform connecting individuals with field experts  
-`Express.js` `TypeScript` `MySQL` `REST API` `Scalable Architecture`
-
-#### 🔹 AI Vehicle Detection System `Jun 2024 - Aug 2024`
-Traffic density estimation using YOLOv8  
-`Python` `YOLOv8` `OpenCV` `Computer Vision` `Real-time Analysis`
-
-#### 🔹 Oracis AI `Jun 2023 - Jul 2023`
-AI-driven CV creation with blockchain NDA signing  
-`React Native` `JavaScript` `Blockchain` `Web3` `AI Integration`
-
-#### 🔹 Admin-NUSTFruta `May 2024 - Jun 2024`
-Administrative app for business management  
-`Java` `Android Studio` `Firebase` `Real-time Database`
 
 ---
 
