@@ -3,7 +3,7 @@
 > Full Stack Developer • Cloud Engineer • AI/ML Specialist  
 > Co-Founder @ Codexon Solution
 
-[![Portfolio](https://img.shields.io/badge/→_Portfolio-000000?style=flat&logoColor=white)](https://www.labibkamran.com) [![LinkedIn](https://img.shields.io/badge/→_LinkedIn-0A66C2?style=flat&logoColor=white)](https://linkedin.com/in/labibkamran) [![Email](https://img.shields.io/badge/→_Email-EA4335?style=flat&logoColor=white)](mailto:labibkamran2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/→_Portfolio-000000?style=flat&logoColor=white)]([https://www.labibkamran.com](https://my-portfolio-three-rust-67.vercel.app/)) [![LinkedIn](https://img.shields.io/badge/→_LinkedIn-0A66C2?style=flat&logoColor=white)](https://linkedin.com/in/labibkamran) [![Email](https://img.shields.io/badge/→_Email-EA4335?style=flat&logoColor=white)](mailto:labibkamran2003@gmail.com)
 
 ---
 
