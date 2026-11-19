@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="t">
+<title id="t">toolkit: What I build with</title>
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#1f3b30" stroke-width="0.6" opacity="0.55"/>
+  </pattern>
+  <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+    <stop offset="0" stop-color="#34c47c" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#34c47c" stop-opacity="0"/>
+  </radialGradient>
+  
+</defs>
+<style></style>
+
+<text x="8" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#34c47c">// toolkit</text>
+<text x="6" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-1" fill="#ecf4ef">What I build with</text>
+
+<line x1="8" y1="112" x2="1192" y2="112" stroke="#1f3b30"/>
+<line x1="8" y1="112" x2="220" y2="112" stroke="#34c47c" stroke-width="2"/>
+
+</svg>

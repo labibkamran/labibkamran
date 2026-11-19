@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="t">
+<title id="t">Built in Islamabad. Running in production. Email labibkamran2003@gmail.com.</title>
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#1f3b30" stroke-width="0.6" opacity="0.55"/>
+  </pattern>
+  <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+    <stop offset="0" stop-color="#34c47c" stop-opacity="0.22"/>
+    <stop offset="1" stop-color="#34c47c" stop-opacity="0"/>
+  </radialGradient>
+  
+</defs>
+<style></style>
+
+<rect x="1" y="1" width="1198" height="168" rx="22" fill="#0b1612" stroke="#1f3b30"/><rect x="1" y="1" width="1198" height="168" rx="22" fill="url(#grid)" opacity="0.5"/><circle cx="600" cy="85" r="300" fill="url(#glow)"/>
+<text x="600" y="78" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.8" fill="#ecf4ef">Built in Islamabad. Running in production.</text>
+<text x="600" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#8fa99c">labibkamran2003@gmail.com</text>
+
+</svg>
