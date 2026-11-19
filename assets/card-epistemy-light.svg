@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="196" viewBox="0 0 430 196" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t">
+  <title id="t">Epistemy. AI tutoring platform that turns raw session transcripts into topic summaries, quizzes and progress reports. Built with React · LangChain · Groq.</title>
+  <rect x="0.5" y="0.5" width="429" height="195" rx="14" fill="#ffffff" stroke="#d1d9e0"/>
+  <text x="24" y="46" font-size="21" font-weight="650" letter-spacing="-0.3" fill="#1f2328">Epistemy</text>
+  
+  <text x="24" y="78" font-size="13.5" fill="#59636e">AI tutoring platform that turns raw session</text><text x="24" y="98" font-size="13.5" fill="#59636e">transcripts into topic summaries, quizzes and progress</text><text x="24" y="118" font-size="13.5" fill="#59636e">reports.</text>
+  <line x1="24" y1="146" x2="406" y2="146" stroke="#d1d9e0"/>
+  <text x="24" y="172" font-size="12.5" fill="#1f2328" font-weight="500">React · LangChain · Groq</text>
+</svg>
