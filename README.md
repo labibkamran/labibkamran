@@ -1,92 +1,40 @@
 # Labib Kamran
 
-> Full Stack Developer • Cloud Engineer • AI/ML Specialist  
-> Co-Founder @ Codexon Solution
+DevOps & Full-Stack Engineer in Islamabad, Pakistan. I build products end to end and run them reliably in production.
 
-[![Portfolio](https://img.shields.io/badge/→_Portfolio-000000?style=flat&logoColor=white)]([https://www.labibkamran.com](https://my-portfolio-three-rust-67.vercel.app/)) [![LinkedIn](https://img.shields.io/badge/→_LinkedIn-0A66C2?style=flat&logoColor=white)](https://linkedin.com/in/labibkamran) [![Email](https://img.shields.io/badge/→_Email-EA4335?style=flat&logoColor=white)](mailto:labibkamran2003@gmail.com)
+I'm a Software Engineer at the [National Center of Artificial Intelligence (NCAI)](https://ncai.pk), where I'm one of the engineers behind **NAB Eye**, Pakistan's first sovereign AI investigation system. It was built for the National Accountability Bureau and runs entirely on local infrastructure.
 
----
+[Website](https://my-portfolio-three-rust-67.vercel.app) · [LinkedIn](https://www.linkedin.com/in/labibkamran) · [Email](mailto:labibkamran2003@gmail.com)
 
-## 👨‍💻 Overview
+## What I work on
 
-```javascript
-const developer = {
-  education: "BS Computer Science, NUST University",
-  experience: {
-    years: "2+ development | 1+ professional",
-    current: "Co-Founder @ Codexon Solution",
-    focus: ["Cloud Infrastructure", "AWS & Kubernetes", "Backend Architecture"]
-  },
-  location: "Islamabad, Pakistan"
-};
-```
+- Cloud infrastructure, CI/CD and Kubernetes. At PlutoSec (Toronto, remote) I cut cloud infrastructure costs by 50%.
+- Backend services and platforms in Node.js, Python/Django and Go.
+- Full-stack products with React and Next.js, from first prototype to production.
+- Right now: open-source infrastructure tooling in Go.
 
----
+## Selected work
 
-## 🚀 What I Do
+| Project | What it is | Built with |
+|---|---|---|
+| **NAB Eye** | Sovereign AI investigation system for Pakistan's National Accountability Bureau. Local GPUs, private network, role-based access across regions. (Private; [press coverage](https://www.dawn.com/news/2010341)) | Django, Next.js, self-hosted AI models |
+| [**Tadabbur**](https://github.com/labibkamran/Tadabbur) | A Qur'an chat and reading app. Ask a question in plain language and read the answer in the text itself. Launch post reached 24,000+ people. ([Website](https://tadabbur-web-seven.vercel.app)) | React Native, Expo, Supabase |
+| [**Epistemy**](https://github.com/labibkamran/Epistemy-Frontend) | AI tutoring platform that turns raw session transcripts into topic summaries, quizzes and progress reports. | React, LangChain, Groq |
+| [**AI Research Assistant**](https://github.com/labibkamran/AI-Research-Assistant-Frontend) | Chrome extension that organizes research by topic, summarizes selected text and generates citations. | JavaScript, LLM APIs |
 
-| Domain | Technologies | Focus Area |
-|--------|-------------|------------|
-| **Frontend** | React, Vue.js, JavaScript, TypeScript, TailwindCSS | Modern web interfaces |
-| **Backend** | Python, Node.js, Django, Express.js | Scalable APIs & services |
-| **Mobile** | Flutter, Java, Kotlin, Android Studio | Cross-platform apps |
-| **Database** | PostgreSQL, MySQL, MongoDB | Data architecture |
-| **Cloud** | AWS, Google Cloud, Docker, Kubernetes | Infrastructure & deployment |
-| **AI/ML** | TensorFlow, PyTorch, Keras, OpenCV | Intelligent systems |
+## Experience
 
----
+- **NCAI, NUST** · Software Engineer · 2025 to now
+- **PlutoSec** (Toronto, remote) · Senior Software Engineer, cloud and DevOps · 2025 to now
+- **Upwork** · Freelance Full-Stack & Cloud Engineer, 100% job success · 2025 to now
+- **Codexon Solutions** · Full-Stack & DevOps Engineer · 2025
+- **Veron Solutions** · Backend Engineer · 2024 to 2025
+- **NUST** · BS Computer Science · 2023 to 2027
 
-## 💼 Experience Timeline
+## Stack
 
-```mermaid
-timeline
-    title Professional Journey
-    Feb 2025 - Present : Codexon Solution (Co-Founder & Full Stack Dev)
-    Jun 2024 - Aug 2024 : MachVis (AI/ML Intern)
-    Jan 2024 - May 2024 : Veron Solutions (Backend Developer)
-```
-
-**Codexon Solution** — *Co-Founder & Full Stack Developer*  
-Building backend architecture, cloud infrastructure, and DevOps pipelines
-
-**Veron Solutions** — *Backend Developer*  
-Developed scalable systems with microservices and automated CI/CD
-
-**MachVis** — *AI/ML Intern*  
-Deep learning research and computer vision applications
+Go · Node.js · TypeScript · Python · Django · React · Next.js · Docker · Kubernetes · Google Cloud · AWS · PostgreSQL · CI/CD
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=labibkamran&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=labibkamran&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
-
-</div>
-
----
-
-## 💬 Open for Collaboration
-
-Interested in working together on:
-- Cloud-native applications
-- Full-stack web projects
-- AI/ML integrations
-- Open source contributions
-
-**Reach out:** [labibkamran2003@gmail.com](mailto:labibkamran2003@gmail.com)
-
----
-
-<div align="center">
-
-*Crafting scalable solutions with clean code and modern architecture*
-
-</div>
+Open to work on cloud platforms, developer tooling and AI products. The fastest way to reach me is [email](mailto:labibkamran2003@gmail.com).
