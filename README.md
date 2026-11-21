@@ -1,5 +1,5 @@
 <a href="https://my-portfolio-three-rust-67.vercel.app">
-  <img src="assets/hero.svg" width="100%" alt="Labib Kamran. DevOps and Full-Stack Engineer. I build products end to end and run them reliably in production. Software Engineer at NCAI, Islamabad, Pakistan. Open to new projects.">
+  <img src="assets/header.svg" width="100%" alt="Labib Kamran. DevOps and Full-Stack Engineer. I build products end to end and run them reliably in production. Software Engineer at NCAI, Islamabad, Pakistan. Open to new projects.">
 </a>
 
 <p align="center">
